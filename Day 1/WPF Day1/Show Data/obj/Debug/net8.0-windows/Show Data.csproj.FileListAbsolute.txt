@@ -1,0 +1,20 @@
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\bin\Debug\net8.0-windows\Show Data.exe
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\bin\Debug\net8.0-windows\Show Data.deps.json
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\bin\Debug\net8.0-windows\Show Data.runtimeconfig.json
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\bin\Debug\net8.0-windows\Show Data.dll
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\bin\Debug\net8.0-windows\Show Data.pdb
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\App.g.cs
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data_MarkupCompile.cache
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data_MarkupCompile.lref
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.g.resources
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.AssemblyInfoInputs.cache
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.AssemblyInfo.cs
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.csproj.CoreCompileInputs.cache
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.dll
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\refint\Show Data.dll
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.pdb
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\Show Data.genruntimeconfig.cache
+D:\Technical Materials\WPF\Mohamed Hamdy\Day 1\WPF Day1\Show Data\obj\Debug\net8.0-windows\ref\Show Data.dll
